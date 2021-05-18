@@ -1,0 +1,294 @@
+Continent,Country_ISO,Country_code,Country_name
+Asia,AFG,0,World
+Europe,ALB,4,Afghanistan
+Antarctica,ATA,8,Albania
+Africa,DZA,10,Antarctica
+Oceania,ASM,12,Algeria
+Europe,AND,16,American Samoa
+Africa,AGO,20,Andorra
+North America,ATG,24,Angola
+Europe,AZE,28,Antigua and Barbuda
+Asia,AZE,31,Azerbaijan
+South America,ARG,32,Argentina
+Oceania,AUS,36,Australia
+Europe,AUT,40,Austria
+North America,BHS,44,Bahamas
+Asia,BHR,48,Bahrain
+Asia,BGD,50,Bangladesh
+Asia,ARM,51,Armenia
+Europe,ARM,52,Barbados
+North America,BRB,56,Belgium
+Europe,BEL,58,Belgium-Luxembourg
+North America,BMU,60,Bermuda
+Asia,BTN,64,Bhutan
+South America,BOL,68,Bolivia (Plurinational State of)
+Europe,BIH,70,Bosnia Herzegovina
+Africa,BWA,72,Botswana
+Antarctica,BVT,74,Bouvet Island
+South America,BRA,76,Brazil
+North America,BLZ,80,Br. Antarctic Terr.
+Asia,IOT,84,Belize
+Oceania,SLB,86,Br. Indian Ocean Terr.
+North America,VGB,90,Solomon Isds
+Asia,BRN,92,Br. Virgin Isds
+Europe,BGR,96,Brunei Darussalam
+Asia,MMR,97,EU-27
+Africa,BDI,100,Bulgaria
+Europe,BLR,104,Myanmar
+Asia,KHM,108,Burundi
+Africa,CMR,112,Belarus
+North America,CAN,116,Cambodia
+Africa,CPV,120,Cameroon
+North America,CYM,124,Canada
+Africa,CAF,129,"Caribbean, nes"
+Asia,LKA,132,Cabo Verde
+Africa,TCD,136,Cayman Isds
+South America,CHL,140,Central African Rep.
+Asia,CHN,144,Sri Lanka
+Asia,TWN,148,Chad
+Asia,CXR,152,Chile
+Asia,CCK,156,China
+South America,COL,162,Christmas Isds
+Africa,COM,166,Cocos Isds
+Africa,MYT,170,Colombia
+Africa,COG,174,Comoros
+Africa,COD,175,Mayotte
+Oceania,COK,178,Congo
+North America,CRI,180,Dem. Rep. of the Congo
+Europe,HRV,184,Cook Isds
+North America,CUB,188,Costa Rica
+Europe,CYP,191,Croatia
+Asia,CYP,192,Cuba
+Europe,CZE,196,Cyprus
+Africa,BEN,200,Czechoslovakia
+Europe,DNK,203,Czech Rep.
+North America,DMA,204,Benin
+North America,DOM,208,Denmark
+South America,ECU,212,Dominica
+North America,SLV,214,Dominican Rep.
+Africa,GNQ,218,Ecuador
+Africa,ETH,221,"Eastern Europe, nes"
+Africa,ERI,222,El Salvador
+Europe,EST,226,Equatorial Guinea
+Europe,FRO,230,Fmr Ethiopia
+South America,FLK,231,Ethiopia
+Antarctica,SGS,232,Eritrea
+Oceania,FJI,233,Estonia
+Europe,FIN,234,Faeroe Isds
+Europe,ALA,238,Falkland Isds (Malvinas)
+Europe,FRA,239,South Georgia and the South Sandwich Islands
+South America,GUF,242,Fiji
+Oceania,PYF,246,Finland
+Antarctica,ATF,251,France
+Africa,DJI,254,French Guiana
+Africa,GAB,258,French Polynesia
+Europe,GEO,260,Fr. South Antarctic Terr.
+Asia,GEO,262,Djibouti
+Africa,GMB,266,Gabon
+Asia,PSE,268,Georgia
+Europe,DEU,270,Gambia
+Africa,GHA,275,State of Palestine
+Europe,GIB,276,Germany
+Oceania,KIR,278,Fmr Dem. Rep. of Germany
+Europe,GRC,280,Fmr Fed. Rep. of Germany
+North America,GRL,288,Ghana
+North America,GRD,290,"Northern Africa, nes"
+North America,GLP,292,Gibraltar
+Oceania,GUM,296,Kiribati
+North America,GTM,300,Greece
+Africa,GIN,304,Greenland
+South America,GUY,308,Grenada
+North America,HTI,312,Guadeloupe
+Antarctica,HMD,316,Guam
+Europe,VAT,320,Guatemala
+North America,HND,324,Guinea
+Asia,HKG,328,Guyana
+Europe,HUN,332,Haiti
+Europe,ISL,334,Heard Island and McDonald Islands
+Asia,IND,336,Holy See (Vatican City State)
+Asia,IDN,340,Honduras
+Asia,IRN,344,"China, Hong Kong SAR"
+Asia,IRQ,348,Hungary
+Europe,IRL,352,Iceland
+Asia,ISR,356,"India, excl. Sikkim"
+Europe,ITA,360,Indonesia
+Africa,CIV,364,Iran
+North America,JAM,368,Iraq
+Asia,JPN,372,Ireland
+Europe,KAZ,376,Israel
+Asia,KAZ,381,Italy
+Asia,JOR,384,Côte d'Ivoire
+Africa,KEN,388,Jamaica
+Asia,PRK,392,Japan
+Asia,KOR,398,Kazakhstan
+Asia,KWT,400,Jordan
+Asia,KGZ,404,Kenya
+Asia,LAO,408,Dem. People's Rep. of Korea
+Asia,LBN,410,Rep. of Korea
+Africa,LSO,414,Kuwait
+Europe,LVA,417,Kyrgyzstan
+Africa,LBR,418,Lao People's Dem. Rep.
+Africa,LBY,422,Lebanon
+Europe,LIE,426,Lesotho
+Europe,LTU,428,Latvia
+Europe,LUX,430,Liberia
+Asia,MAC,434,Libya
+Africa,MDG,440,Lithuania
+Africa,MWI,442,Luxembourg
+Asia,MYS,446,"China, Macao SAR"
+Asia,MDV,450,Madagascar
+Africa,MLI,454,Malawi
+Europe,MLT,457,Sarawak
+North America,MTQ,458,Malaysia
+Africa,MRT,459,Peninsula Malaysia
+Africa,MUS,461,Sabah
+North America,MEX,462,Maldives
+Europe,MCO,466,Mali
+Asia,MNG,470,Malta
+Europe,MDA,471,"CACM, nes"
+Europe,MNE,472,"Africa CAMEU region, nes"
+North America,MSR,473,"LAIA, nes"
+Africa,MAR,474,Martinique
+Africa,MOZ,478,Mauritania
+Asia,OMN,480,Mauritius
+Africa,NAM,484,Mexico
+Oceania,NRU,490,"Other Asia, nes"
+Asia,NPL,492,"Europe EU, nes"
+Europe,NLD,496,Mongolia
+North America,ANT,498,Rep. of Moldova
+North America,CUW,499,Montenegro
+North America,ABW,500,Montserrat
+North America,SXM,504,Morocco
+North America,BES,508,Mozambique
+Oceania,NCL,512,Oman
+Oceania,VUT,516,Namibia
+Oceania,NZL,520,Nauru
+North America,NIC,524,Nepal
+Africa,NER,527,"Oceania, nes"
+Africa,NGA,528,Netherlands
+Oceania,NIU,530,Neth. Antilles
+Oceania,NFK,531,Curaçao
+Europe,NOR,532,Neth. Antilles and Aruba
+Oceania,MNP,533,Aruba
+Oceania,UMI,534,Saint Maarten
+North America,UMI,535,Bonaire
+Oceania,FSM,536,Neutral Zone
+Oceania,MHL,540,New Caledonia
+Oceania,PLW,548,Vanuatu
+Asia,PAK,554,New Zealand
+North America,PAN,558,Nicaragua
+Oceania,PNG,562,Niger
+South America,PRY,566,Nigeria
+South America,PER,568,"Other Europe, nes"
+Asia,PHL,570,Niue
+Oceania,PCN,574,Norfolk Isds
+Europe,POL,577,"Other Africa, nes"
+Europe,PRT,579,Norway
+Africa,GNB,580,N. Mariana Isds
+Asia,TLS,581,United States Minor Outlying Islands
+North America,PRI,582,Fmr Pacific Isds
+Asia,QAT,583,FS Micronesia
+Africa,REU,584,Marshall Isds
+Europe,ROU,585,Palau
+Europe,RUS,586,Pakistan
+Asia,RUS,588,East and West Pakistan
+Africa,RWA,590,"Fmr Panama, excl.Canal Zone"
+North America,BLM,591,Panama
+Africa,SHN,592,Fmr Panama-Canal-Zone
+North America,KNA,598,Papua New Guinea
+North America,AIA,600,Paraguay
+North America,LCA,604,Peru
+North America,MAF,608,Philippines
+North America,SPM,612,Pitcairn
+North America,VCT,616,Poland
+Europe,SMR,620,Portugal
+Africa,STP,624,Guinea-Bissau
+Asia,SAU,626,Timor-Leste
+Africa,SEN,634,Qatar
+Europe,SRB,636,"Rest of America, nes"
+Africa,SYC,637,"North America and Central America, nes"
+Africa,SLE,638,Réunion
+Asia,SGP,642,Romania
+Europe,SVK,643,Russian Federation
+Asia,VNM,646,Rwanda
+Europe,SVN,647,Ryukyu Isd
+Africa,SOM,654,Saint Helena
+Africa,ZAF,658,"Saint Kitts, Nevis and Anguilla"
+Africa,ZWE,659,Saint Kitts and Nevis
+Europe,ESP,660,Anguilla
+Africa,SSD,662,Saint Lucia
+Africa,ESH,666,Saint Pierre and Miquelon
+Africa,SDN,670,Saint Vincent and the Grenadines
+South America,SUR,674,San Marino
+Europe,SJM,678,Sao Tome and Principe
+Africa,SWZ,682,Saudi Arabia
+Europe,SWE,686,Senegal
+Europe,CHE,688,Serbia
+Asia,SYR,690,Seychelles
+Asia,TJK,694,Sierra Leone
+Asia,THA,697,"Europe EFTA, nes"
+Africa,TGO,698,Sikkim
+Oceania,TKL,699,India
+Oceania,TON,702,Singapore
+North America,TTO,703,Slovakia
+Asia,ARE,704,Vietnam
+Africa,TUN,705,Slovenia
+Europe,TUR,706,Somalia
+Asia,TUR,710,South Africa
+Asia,TKM,711,So. African Customs Union
+North America,TCA,716,Zimbabwe
+Oceania,TUV,717,Fmr Rhodesia Nyas
+Africa,UGA,720,Fmr Dem. Yemen
+Europe,UKR,724,Spain
+Europe,MKD,728,South Sudan
+Africa,EGY,729,Sudan
+Europe,GBR,732,Western Sahara
+Europe,GGY,736,Fmr Sudan
+Europe,JEY,740,Suriname
+Europe,IMN,748,Swaziland
+Africa,TZA,752,Sweden
+North America,USA,757,Switzerland
+North America,VIR,760,Syria
+Africa,BFA,762,Tajikistan
+South America,URY,764,Thailand
+Asia,UZB,768,Togo
+South America,VEN,772,Tokelau
+Oceania,WLF,776,Tonga
+Oceania,WSM,780,Trinidad and Tobago
+Asia,YEM,784,United Arab Emirates
+Africa,ZMB,788,Tunisia
+,,792,Turkey
+,,795,Turkmenistan
+,,796,Turks and Caicos Isds
+,,798,Tuvalu
+,,800,Uganda
+,,804,Ukraine
+,,807,TFYR of Macedonia
+,,810,Fmr USSR
+,,818,Egypt
+,,826,United Kingdom
+,,834,United Rep. of Tanzania
+,,835,Fmr Tanganyika
+,,836,Fmr Zanzibar and Pemba Isd
+,,837,Bunkers
+,,838,Free Zones
+,,839,Special Categories
+,,841,USA (before 1981)
+,,842,USA
+,,849,US Misc. Pacific Isds
+,,850,US Virgin Isds
+,,854,Burkina Faso
+,,858,Uruguay
+,,860,Uzbekistan
+,,862,Venezuela
+,,866,Fmr Dem. Rep. of Vietnam
+,,868,Fmr Rep. of Vietnam
+,,876,Wallis and Futuna Isds
+,,879,"Western Asia, nes"
+,,882,Samoa
+,,886,Fmr Arab Rep. of Yemen
+,,887,Yemen
+,,890,Fmr Yugoslavia
+,,891,Serbia and Montenegro
+,,894,Zambia
+,,899,"Areas, nes"
